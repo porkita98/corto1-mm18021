@@ -1,0 +1,4 @@
+com\libcode\crud\crud\CrudApplication.class
+com\libcode\crud\crud\emails\repository\EmailRepository.class
+com\libcode\crud\crud\emails\entities\Email.class
+com\libcode\crud\crud\emails\controllers\PageEmailController.class
